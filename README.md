@@ -6,11 +6,10 @@
 
 </div>
 
-Full-Stack Developer focused on building dynamic, efficient solutions — from resilient backend systems to modern, responsive interfaces. BSc (Hons) Software Engineering graduate (Class I) with hands-on experience across development, cloud security, and performance optimization, gained through a Software Engineering internship at **Getecom** (Madrid) and a dissertation building a full satellite mission simulator from scratch.
+Full-Stack Developer focused on building dynamic, efficient solutions, from resilient backend systems to modern, responsive interfaces. BSc (Hons) Software Engineering graduate (Class I) with hands-on experience across development, cloud security, and performance optimization, gained through a Software Engineering internship at **Getecom** (Madrid) and a dissertation building a full satellite mission simulator from scratch.
 
 - 🎓 BSc (Hons) Software Engineering, Class I — York St John University
 - 💼 Former Software Engineering Intern @ Getecom, Madrid
-- 🌍 From Gran Canaria, based in York, UK
 - 🗣️ Fully bilingual: English & Spanish
 - 🔭 Interested in cloud security, distributed systems and performance optimization
 
